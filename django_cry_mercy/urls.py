@@ -22,5 +22,7 @@ from .import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index_page, name='index'),
-    path('insert', views.insertData, name='data')
+    path('insert', views.insertData, name='data'),
+    path('delete/<id>', views.deleteData, name='Delete'),
+    path('update/<id>', views.updateData, name='update')
 ]
