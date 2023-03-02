@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5472b0-f159-4aad-9ef2-42332e4f75ac" name="Changes" comment="" />
+    <list default="true" id="2b5472b0-f159-4aad-9ef2-42332e4f75ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_cry_mercy/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cry_mercy/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_cry_mercy/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cry_mercy/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -32,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/emobilis/PycharmProjects/pythonmercy",
     "node.js.detected.package.eslint": "true",
@@ -102,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677648826044</updated>
       <workItem from="1677648861019" duration="7053000" />
+      <workItem from="1677734729827" duration="5097000" />
     </task>
     <servers />
   </component>
