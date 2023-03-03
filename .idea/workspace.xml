@@ -7,7 +7,6 @@
     <list default="true" id="2b5472b0-f159-4aad-9ef2-42332e4f75ac" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cry_mercy/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cry_mercy/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_cry_mercy/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cry_mercy/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677648826044</updated>
       <workItem from="1677648861019" duration="7053000" />
-      <workItem from="1677734729827" duration="6363000" />
+      <workItem from="1677734729827" duration="8166000" />
     </task>
     <servers />
   </component>
